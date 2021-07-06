@@ -128,3 +128,16 @@ h3{
     width: 100%;
     border-radius: 20px;
 }
+
+footer{
+    background-color: Black;
+    color: white;
+    text-align: center;
+    padding-bottom: 100px;
+    padding-top: 50px;
+    margin-top: 150px;
+}
+
+footer p{
+    text-align: center;
+}
