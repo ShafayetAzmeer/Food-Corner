@@ -62,3 +62,20 @@ h3{
 .half-width-intro img{
     width: 95%;
 }
+
+.bg-about-me {
+    background-image: url(images/about-me-bg.png);
+    background-repeat: no-repeat;
+    margin: 0;
+    padding-top: 50px;
+    padding-left: 200px;
+    padding-right: 200px;
+    margin-bottom: 100px;
+}
+
+.half-width-about-me{
+    width : 50%
+}
+.half-width-about-me img{
+    width: 65%;
+}
