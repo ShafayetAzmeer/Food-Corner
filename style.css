@@ -79,3 +79,28 @@ h3{
 .half-width-about-me img{
     width: 65%;
 }
+
+.my-recipie-intro{
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+.my-recipie{
+    display: flex;
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 10px;
+}
+
+.recipie-item{
+    width: 25%;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding: 20px;
+    box-shadow: 3px 3px 20px grey;
+    border-radius: 20px;
+}
