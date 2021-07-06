@@ -1,0 +1,64 @@
+body{
+    font-family: 'Noto Sans', sans-serif;
+    color: rgb(20, 20, 18);
+}
+p{
+    text-align: justify;
+}
+
+h1{
+    font-size: 60px;
+    font-weight: 900;
+    margin-top: 0;
+    margin-bottom: 0;
+    color: dimgray;
+}
+
+h2{
+    font-size: 50px;
+    font-weight: 700;
+    margin-top: 0;
+    margin-bottom: 0;
+    color: dimgray;
+}
+
+h3{
+    font-size: 40px;
+    font-weight: 700px;
+    margin-top: 0;
+    margin-bottom: 0;
+    color: rgb(41, 39, 39);
+}
+
+.introduction{
+    display: flex;
+    margin-left: 100px;
+    margin-top: 50px;
+    margin-bottom: 150px;
+}
+
+.diff-Color-heading{
+    color: orangered;
+}
+
+.link-button{
+    background-origin: 10px;
+    color: white;
+    background-image: linear-gradient(to Right, blue,cyan);
+    font-weight: 700;
+    font-size: larger;
+    text-decoration: none;
+    border-radius: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    padding-right: 50px;  
+}
+
+.half-width-intro{
+    width: 50%;
+    margin-top: 10px;
+}
+.half-width-intro img{
+    width: 95%;
+}
